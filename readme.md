@@ -31,9 +31,3 @@ This example code will generate a music card image and save it.
 })()
 ```
 
-# __Output__
-This is the **classic** output of musicard.
-![classic](https://www.reedroux.biz/musicard.png)
-
-This is the **dynamic** output of musicard.
-![dynamic](https://www.reedroux.biz/musicard.png)
